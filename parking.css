@@ -1,0 +1,64 @@
+html {
+    background-color: whitesmoke;
+    height: 100%
+}
+body {
+    width: 800px;
+    height: 100%;
+}
+
+h1 {
+    color: white;
+    background-color: grey;
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    margin: 10px;
+    padding: 20px;
+}
+
+h2 {
+    background-color: grey;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+}
+
+nav {
+    color: white;
+    background-color: rgb(169, 169, 169);
+    text-align: center;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    width: 125px;
+    height: 1000px;
+    margin: 10px;
+}
+
+h3 {
+    color: green;
+    background-color: lightgrey;
+    font-size: 18px;
+    
+}
+
+div {
+    display: inline-block;
+}
+
+.area {
+    background-color: pink;
+}
+
+li a {
+    color: blue;
+}
+
+
+
+Collapse 
+Message Input
+
+Message Natalia Haberl, April Guentz, Susan F, Richard Flinn

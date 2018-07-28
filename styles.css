@@ -1,0 +1,24 @@
+html{
+    background-color: rgb(134, 48, 134)
+}
+
+#greenAbout{
+    color: green;
+    font-size: 40px;
+}
+
+#redAbout{
+    color: orange;
+    font-size: 80px;
+}
+
+.myClass{
+    color: blue;
+    font-size: 50px;
+
+}
+
+.secondClass{
+    color: yellowgreen;
+    font-size: 50px;
+}

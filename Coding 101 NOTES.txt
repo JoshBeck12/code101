@@ -1,0 +1,67 @@
+Code Fellows 101 - Coding Notes
+	-Moern Web (HTML, CSS, JavsScript)
+	   - Web Applications (ex. facebook, microsoft.com, bing)
+	     - useful for clients which the request goes to a server to pull the web app from, pulls from a database to then present
+	        -Front end = client facing
+		-Back end = server + Database
+	-Front End
+ 	   - HTML, CSS, JavaScript
+ 	      - HTML = constent and structure (framework, the skeleton)
+	      - CSS = Presentation mode (colors, font size, overall clean look)
+ 	      - JavaScript = Interaction (pieces that move, pop ups, action pieces)
+	-HTML (put the content on the page)
+	  -Tells the browser what the contaent is 
+	    -Text
+ 	    - Headlines
+	    -Lines
+            - Links
+CSS (makes everything look nice)
+-Tells the browser how the content should look
+--Fonts
+--colors
+--placement of content
+--Responsive
+
+JavaScript
+-Tells the broweser what it should do when certain things happen
+--The page loads
+--the user clicks on a button
+--A form is submitted
+--The page needs to fetch extra data
+
+How To Start
+-Identify content.
+
+
+
+HTML 
+- Content is wrapped in "tags"
+-tages tell the browser the meaning of the content
+-browsers displays the content according to the rules of the tages
+-This is called "marking up" the content
+-Ergo: Hyper Text Markup Language
+
+Tags
+-Tages surround the content they describe. Like thisL
+   <p>My really cool paragraph!</p>
+
+Organize your content 
+- HTML has tags that are applied to blocks of content.
+--<header></header>
+--<nav></nav>
+
+White space
+-white sspace = tabs, spaces, returns
+-all white space characters show up as one space.
+-We can use different tags to make
+
+headings 
+-tells the browser how important a line of text is
+	-<h1>I;m the biggest heading!</h1>
+
+Attributes
+-tags can ahave attributes that give more info
+	- where to find an imgage file
+	- the URL of a link
+-attributes have different names, nit the syntax is the same:
+	-<image src
